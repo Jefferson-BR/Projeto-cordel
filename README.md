@@ -1,5 +1,3 @@
-# Link para visualizar a Página:
+Link para visualizar a Página: https://jefferson-br.github.io/Projeto-cordel/
 
-https://jefferson-br.github.io/Projeto-cordel/
-
-OBS: Esse site foi criado a partir do meu aprendizado com o profº Gustavo guanabara.
+OBS: Esse Projeto foi Re-criado com base no curso de HTML5 & CSS3 (Gustavo Guanabara)
